@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+    background:url(https://i.pinimg.com/564x/c3/10/62/c3106271f0b16f9b865c83f24ab0a132.jpg);
+    background-size: cover;
+    font-size: 30px;
+    color: aliceblue;
+}
+
+h1{
+    font-size: 55px;
+    color: rgb(231, 211, 27);
+}
+
+button{
+padding: 10px;
+border-radius: 20px;
+background-color: rgb(231, 211, 27);
+color:black;
+font-size: medium;
+border: 0;
+margin-top: 10px;
+margin-bottom: 10px;
+}
